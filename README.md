@@ -10,7 +10,7 @@ Regnomail is a plugin to customize your registration form. It disable sending em
 *   Change login / registration logo image.
 
 Read more details here:
-http://www.vnetware.com/regnomail
+[http://www.vnetware.com/regnomail](http://www.vnetware.com/regnomail)
 
 == Installation ==
 
