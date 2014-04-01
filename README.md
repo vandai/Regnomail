@@ -8,6 +8,7 @@ Regnomail is a plugin to customize your registration form. It disable sending em
 *   Show password input form, so user can input their own password
 *   Show First and Last name input form
 *   Change login / registration logo image.
+*	Translation ready
 
 Read more details here:
 [http://www.vnetware.com/regnomail](http://www.vnetware.com/regnomail)
@@ -18,3 +19,15 @@ Read more details here:
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to *(Settings - Regnomail Settings)*
 4. Make some changes
+
+
+== Changelog ==
+
+= 1.1 =
+* ADD Translation Support
+* ADD Spanish language (translated by Jelena Kovacevic / Andrew Kurtis)
+
+= 1.0 =
+* First Public Release!
+* ADD Options page
+* ADD Options to upload custom login logo image
